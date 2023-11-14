@@ -1,0 +1,15 @@
+
+used an array length of 5
+
+InsertionSort:
+
+Best Case (sorted array): 4 comparisons, 0 swaps, and 5 copies.omega(n).
+Worst Case (reverse sorted array):  10 comparisons, 10 swaps, and 5 copies.O(n^2).
+Average Case (partially sorted array): 7 comparisons, 3 swap, and 5 copies.between O(n^2) and omega(n).
+
+MergeSort:
+
+Best Case (sorted array): 7 comparisons, 0 swaps, and 24 copies. omega(nlogn).
+Worst Case (reverse sorted array): 5 comparisons, 0 swaps, and 24 copies. O(nlogn).
+Average Case (partially sorted array): 8 comparisons, 0 swaps, and 24 copies. O(nlogn).
+
